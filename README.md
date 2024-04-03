@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Rudra Prakash
 - 👀 Interested to solve real world problems using code.
 - 🌱 Currently learning Data Structures and Algorithms
-- 💞️ Always open to contribute on opensource product developments.
+- 💞️ Always open to contribute on open source product developments.
 - 📫 Reachout to me at [LinkedIn](https://www.linkedin.com/in/rudra-prakash-edamalapaati/)
 - 👨‍💻 Coding Profile [HackerRank](https://www.hackerrank.com/edamalapatirudr1)  [Leetcode](https://leetcode.com/Rudraprakash054/)
 
