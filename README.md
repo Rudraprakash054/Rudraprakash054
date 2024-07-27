@@ -1,7 +1,8 @@
-- 👋 Hi there, I’m Rudra Prakash
-- 👀 Interested to solve real world problems using code.
-- 🌱 Currently learning Data Structures and Algorithms
-- 💞️ Always open to contribute on open source product developments.
+# Hi there 👋 
+- 🤠 I’m Rudra Prakash, but everyone calls me RUDRA 😄
+- 👀 I am interested in solving real-world problems using code.
+- 🌱 Learning new data structures and algorithms.
+- 💞️ Always open to contributing to open-source product developments.
 - 📫 Reachout to me at [LinkedIn](https://www.linkedin.com/in/rudra-prakash-edamalapaati/)
 - 👨‍💻 Coding Profile [HackerRank](https://www.hackerrank.com/edamalapatirudr1)  [Leetcode](https://leetcode.com/Rudraprakash054/)
 
