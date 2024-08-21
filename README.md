@@ -1,5 +1,5 @@
 # Hi there 👋 
-- 🤠 I’m Rudra Prakash, but everyone calls me RUDRA 😄
+- 🤠 I’m Rudra Prakash, Everyone calls me RUDRA 😄
 - 👀 I am interested in solving real-world problems.
 - 🌱 Learning new data structures and algorithms.
 - 💞️ Always open to contribute in open-source product developments.
